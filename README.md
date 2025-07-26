@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GenAI S&P 500 Dashboard 📈🤖
 
 This Streamlit app forecasts stock prices for S&P 500 companies and summarizes recent news using GPT-4.
@@ -22,4 +23,4 @@ export OPENAI_API_KEY=your_api_key
 3. Run the app:
 ```
 streamlit run genai_sp500_dashboard_app.py
-```
+```c
